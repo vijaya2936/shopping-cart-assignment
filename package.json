@@ -1,5 +1,6 @@
 {
   "name": "shopping-cart-assignment",
+  "type": "module",
   "version": "1.0.0",
   "description": "Shopping cart assignment for interviews",
   "main": "index.js",
@@ -9,5 +10,8 @@
   },
   "devDependencies": {
     "json-server": "^0.17.4"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
   }
 }
